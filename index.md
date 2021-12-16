@@ -24,6 +24,11 @@ In this phase of development--------
 
 ## 3. The system’s simulation
 
-![image](https://user-images.githubusercontent.com/96152526/146427948-3c15c563-8276-4179-b289-45d7cf4014f3.png)
+Lgical/functional View point
+![image](https://user-images.githubusercontent.com/96152526/146428646-91779df7-86c6-4ec5-8429-c1a41cad7dc2.png)
+
+Operational ViewPoint
+![image](https://user-images.githubusercontent.com/96152526/146428885-7a779d87-b672-48ac-98bf-7d7ea7c5575f.png)
+![image](https://user-images.githubusercontent.com/96152526/146428963-a0553bfe-7949-4773-a8e7-d12fb322bebe.png)
 
 
