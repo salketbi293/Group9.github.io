@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Inertial Wheel Pendulum
 
 You can use the [editor on GitHub](https://github.com/salketbi293/Group9.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
