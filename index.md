@@ -24,6 +24,6 @@ In this phase of development--------
 
 ## 3. The system’s simulation
 
-
+![image](https://user-images.githubusercontent.com/96152526/146427948-3c15c563-8276-4179-b289-45d7cf4014f3.png)
 
 
