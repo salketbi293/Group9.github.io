@@ -55,6 +55,3 @@ Your Simulink diagram or MATLAB –or other- code should be here
 References
 
 [1] M. W. Spong, P. Corke, and R. Lozano, Nonlinear control of the reaction wheel pendulum, Automatica, vol. 37, no. 11, pp. 1845–1851, 2001
-
-
-
