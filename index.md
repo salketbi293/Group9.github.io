@@ -1,6 +1,7 @@
 
 ## Inertial Wheel Pendulum
 
+
 Team Members: Saif Alketbi, Ryan Persons, Jesse Rath, Noah Douglas, Marius van Zyl
 
 Fall 2021,California State University, Chico 
