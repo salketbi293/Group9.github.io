@@ -3,7 +3,6 @@
 
 Team Members: Saif Alketbi, Ryan Persons, Jesse Wrath, Noah Douglas, Marius van Zyl
 
-
 Fall 2021,California State University, Chico 
 
 # Table of Contents:
