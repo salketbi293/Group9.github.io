@@ -40,9 +40,10 @@ The pendulum is mounted to a table and allowed to hang freely. The X’ and Y’
 From the top view the system components are easily identifiable. The system is allowed to rotate at the bearings holding the shaft to the chassis. The motor spins the reaction wheel such that momentum is generated. 
 
 ## 4. Sensor Calibration
-
+Rotational sensors will have to be calibrated such that each step is a known angle. This calibration would only be done upon initial setup. Additional calibration would be done such that the vertical position of the lever arm, when the reaction wheel is at the top of travel, is zero degrees. 
 
 ## 5. Control Design Simulations
+![image](https://user-images.githubusercontent.com/96152526/146591327-452f0f36-fc7f-4eb3-aa87-26e9544dcb97.png)
 
 ## 6. Controller Implementation
 
