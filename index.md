@@ -1,7 +1,8 @@
 
 ## Inertial Wheel Pendulum
 
-Team Members: Saif Alketbi, MariusC, Noah, Ryan, Lord Wilmore.
+Team Members: Saif Alketbi, Ryan Persons, Jesse Wrath, Noah Douglas, Marius van Zyl
+
 
 Fall 2021,California State University, Chico 
 
@@ -32,10 +33,12 @@ The high voltage power supply (24V)  is stepped down to a low voltage power supp
 b. Operational ViewPoint
   i. Side View
   ![image](https://user-images.githubusercontent.com/96152526/146481275-525c61df-9379-4b4c-a7df-7594d7fefc74.png)
+  
 The pendulum is mounted to a table and allowed to hang freely. The X’ and Y’ axis rotates with the pendulum. When a force is applied to the pendulum the system senses an angle greater than 0 between the Y’ and X axis and starts to spin the motor to bring the angle closer to zero. Once it senses the angle is becoming larger, meaning the momentum is no longer large enough to overcome the weight of the pendulum, the rotation of the wheel is reversed and momentum is added in the opposite direction. Once the system senses a zero degree difference between the Y’ and X-axis the wheel is spun back and forth just enough to maintain the position of the lever arm. 
 
   ii. Top view
   ![image](https://user-images.githubusercontent.com/96152526/146481359-9c9f2ce8-a930-45e0-9cdd-14d069c71728.png)
+  
 From the top view the system components are easily identifiable. The system is allowed to rotate at the bearings holding the shaft to the chassis. The motor spins the reaction wheel such that momentum is generated. 
 
 ## 4. Sensor Calibration
