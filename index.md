@@ -21,7 +21,8 @@ An example of an inertia wheel pendulum
 
 
 ## 2. System Requirements
-![image](https://user-images.githubusercontent.com/96152526/146480034-05cfd3e3-dbc7-4455-ad86-05dd1559db23.png)
+![MECH_482_-_Requirements__Capabilities_Database](https://user-images.githubusercontent.com/96152526/146605696-36c4782e-4f3c-4e73-8273-bd0db5c41cf1.png)
+
 
 ## 3. Modeling
   a. Logical_Functional Viewpoint
