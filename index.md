@@ -26,8 +26,7 @@ An example of an inertia wheel pendulum
 
 ## 3. Modeling
   a. Logical_Functional Viewpoint
-![image](https://user-images.githubusercontent.com/96152526/146481154-b3120cf6-c48c-4153-a787-c4292602b9c2.png)
-
+![image](https://user-images.githubusercontent.com/96152526/146482109-0b6269fc-8795-409f-9423-604befc2c5d7.png)
 The high voltage power supply (24V)  is stepped down to a low voltage power supply (5V). The low-voltage power supply feeds the low level controller, the driver, and the motor. The motor spins the wheel which imparts a momentum on it. This creates a force that pushes the lever arm in the required direction. A sensor on the arm reads how far the pendulum is from standing straight up and sends a signal to the low level controller to adjust the input to the driver. Similarly a sensor on the wheel reads how fast and how many revolutions it needs to make to get the desired result. 
 
 b. Operational ViewPoint
