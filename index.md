@@ -68,7 +68,7 @@ In the next figure, the pendulum is at the target position with θ1 at 180 degre
 ![m5](https://user-images.githubusercontent.com/35742388/146657222-2d7d0644-1cc9-4985-a927-fac2fb837c52.jpg)
 
 
-MatLab implementation
+## 6.2. MatLab implementation
 ![control](https://user-images.githubusercontent.com/35742388/146657227-4601c68e-563e-457d-bcd4-89e02e1c934a.jpg)
 
 
