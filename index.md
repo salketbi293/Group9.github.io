@@ -50,10 +50,10 @@ Rotational sensors will have to be calibrated such that each step is a known ang
 ## 6. Controller Implementation
 
 
-Pendulum in zero position
+Below is the simulated system in the initial position with θ1 and θ2 at zero degrees.
 ![Bottom position with tree](https://user-images.githubusercontent.com/35742388/146656577-409ac1d9-af38-4169-a767-7743f7e0ce4a.JPG)
 
-Pendulum in controlled vertical position
+In the next figure, the pendulum is at the target position with θ1 at 180 degrees.
 ![Top position with tree](https://user-images.githubusercontent.com/35742388/146656579-0ab0dbf4-854c-422f-ba2f-7eae95169dbf.JPG)
 
 
