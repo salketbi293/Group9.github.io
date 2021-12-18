@@ -56,6 +56,22 @@ In the next figure, the pendulum is at the target position with θ1 at 180 degre
 ## 6. Controller Implementation
 ![image](https://user-images.githubusercontent.com/96152526/146591327-452f0f36-fc7f-4eb3-aa87-26e9544dcb97.png)
 
+## 6.1. Math model and equations
+![m1](https://user-images.githubusercontent.com/35742388/146657196-e2287e2e-de5a-471a-becd-2b35437bfc27.jpg)
+![m2](https://user-images.githubusercontent.com/35742388/146657199-8e932600-ded0-4f48-b5d3-26d10b3ec7b7.jpg)
+![m3](https://user-images.githubusercontent.com/35742388/146657203-8befb945-e76a-4801-aec2-e2f063bcad4a.jpg)
+![m4](https://user-images.githubusercontent.com/35742388/146657213-386e8c39-8cec-4234-9220-7ff1eadf9508.jpg)
+![m5](https://user-images.githubusercontent.com/35742388/146657222-2d7d0644-1cc9-4985-a927-fac2fb837c52.jpg)
+
+MatLab implementation
+![control](https://user-images.githubusercontent.com/35742388/146657227-4601c68e-563e-457d-bcd4-89e02e1c934a.jpg)
+
+
+
+
+
+
+
 Appendix A:
 
  Simulation Code 
