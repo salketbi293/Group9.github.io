@@ -45,10 +45,6 @@ From the top view the system components are easily identifiable. The system is a
 Rotational sensors will have to be calibrated such that each step is a known angle. This calibration would only be done upon initial setup. Additional calibration would be done such that the vertical position of the lever arm, when the reaction wheel is hanging freely, is zero degrees.
 
 ## 5. Control Design Simulations
-![image](https://user-images.githubusercontent.com/96152526/146591327-452f0f36-fc7f-4eb3-aa87-26e9544dcb97.png)
-
-## 6. Controller Implementation
-
 
 Below is the simulated system in the initial position with θ1 and θ2 at zero degrees.
 ![Bottom position with tree](https://user-images.githubusercontent.com/35742388/146656577-409ac1d9-af38-4169-a767-7743f7e0ce4a.JPG)
@@ -56,6 +52,9 @@ Below is the simulated system in the initial position with θ1 and θ2 at zero d
 In the next figure, the pendulum is at the target position with θ1 at 180 degrees.
 ![Top position with tree](https://user-images.githubusercontent.com/35742388/146656579-0ab0dbf4-854c-422f-ba2f-7eae95169dbf.JPG)
 
+
+## 6. Controller Implementation
+![image](https://user-images.githubusercontent.com/96152526/146591327-452f0f36-fc7f-4eb3-aa87-26e9544dcb97.png)
 
 Appendix A:
 
