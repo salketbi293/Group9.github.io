@@ -1,3 +1,5 @@
+% From the book: V. M. Hernández-Guzmán, R. Silva-Ortigoza, Automatic Control with Experiments
+
 % Inertial Wheel pendulam
 function [out] = Big_file_Wheel()
 %% G21_Inertia_Wheel_Pendulum_Block
