@@ -6,7 +6,7 @@ Team Members: Saif Alketbi, Ryan Persons, Jesse Rath, Noah Douglas, Marius van Z
 
 Fall 2021,California State University, Chico 
 
-YouTube Video Presentation Link: https://youtu.be/hruRpZqWCIY
+## YouTube Video Presentation Link: https://youtu.be/hruRpZqWCIY
 
 # Table of Contents:
 1. Introduction 
